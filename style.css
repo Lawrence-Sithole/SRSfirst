@@ -1,7 +1,15 @@
 body {
   font-family: barlow;
 }
+header {
+  justify-content: space-between;
+}
 .banner {
   display: inline-block;
   padding: auto;
+  justify-content: space-between;
+}
+.logo {
+  background-color: blue;
+  padding-right: 20px;
 }
