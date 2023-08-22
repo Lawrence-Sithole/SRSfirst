@@ -29,3 +29,7 @@ main {
   background-color: blanchedalmond;
   height: 40vh;
 }
+.copyright {
+  font-size: 8px;
+  font-weight: 500;
+}
