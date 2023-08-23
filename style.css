@@ -5,12 +5,12 @@ header {
   justify-content: space-between;
 }
 .banner {
-  display: inline-block;
+  display: flex;
   padding: auto;
   justify-content: space-between;
 }
 .logo {
-  background-color: blue;
+  background-color: rgb(24, 24, 54);
   padding-right: 20px;
 }
 .home {
