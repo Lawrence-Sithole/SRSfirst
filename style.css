@@ -31,7 +31,7 @@ header {
   justify-content: flex-end;
 }
 main {
-  background-color: burlywood;
+  background-color: rgb(230, 216, 199);
   height: 60vh;
 }
 .pic1 {
