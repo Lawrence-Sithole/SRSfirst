@@ -49,3 +49,7 @@ footer {
   font-size: 8px;
   font-weight: 500;
 }
+.pic2 {
+  max-width: 150px;
+  object-fit: cover;
+}
