@@ -52,4 +52,11 @@ footer {
 .pic2 {
   max-width: 150px;
   object-fit: cover;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.tyre {
+  margin: 0;
+  font-size: x-small;
+  padding: 0;
 }
