@@ -39,9 +39,7 @@ main {
   width: 100vw;
   opacity: 0.5;
 }
-.text1 {
-  position: relative;
-}
+
 footer {
   background-color: rgb(250, 220, 190);
   padding: 16px 0;
@@ -70,8 +68,4 @@ footer {
 .fset2 {
   border-color: steelblue;
   background-color: rgb(212, 231, 246);
-}
-section > div {
-  border: 2px red solid;
-  display: inline-block;
 }
