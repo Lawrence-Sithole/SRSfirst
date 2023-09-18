@@ -69,3 +69,15 @@ footer {
   border-color: steelblue;
   background-color: rgb(212, 231, 246);
 }
+.container {
+  display: flexbox;
+  max-width: 50%;
+}
+.item {
+  display: inline-block;
+
+  justify-content: center;
+  border: 1px solid black;
+  margin: 20px;
+  padding: 30px;
+}
