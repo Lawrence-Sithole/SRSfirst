@@ -72,12 +72,15 @@ footer {
 .container {
   display: flexbox;
   max-width: 50%;
+  padding-left: 200px;
 }
 .item {
   display: inline-block;
 
   justify-content: center;
-  border: 1px solid black;
+  border: 3px solid black;
   margin: 20px;
   padding: 30px;
+  border-radius: 6px;
+  box-shadow: 5px 10px 6px gray;
 }
