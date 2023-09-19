@@ -82,5 +82,5 @@ footer {
   margin: 20px;
   padding: 30px;
   border-radius: 6px;
-  box-shadow: 5px 10px 6px gray;
+  box-shadow: 5px 10px 6px rgba(9, 9, 9, 0.5);
 }
