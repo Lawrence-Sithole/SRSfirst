@@ -84,6 +84,9 @@ footer {
   border-radius: 6px;
   box-shadow: 5px 10px 6px rgba(9, 9, 9, 0.5);
 }
-.item item-1 {
+.item-1 {
   background-color: aqua;
+}
+.item-2 {
+  background-color: rgb(10, 255, 255);
 }
