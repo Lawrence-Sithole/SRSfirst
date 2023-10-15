@@ -43,7 +43,7 @@ main {
 footer {
   background-color: rgb(250, 220, 190);
   padding: 16px 0;
-  border: 1px dotted rgb(230, 8, 230);
+  border: 1px dotted rgb(230, 10, 230);
 }
 .copyright {
   font-size: 10px;
