@@ -102,6 +102,7 @@ footer {
 .item-4 {
   background-color: rgb(30, 225, 225);
   color: rgb(0, 0, 120);
+  font-weight: bolder;
 }
 .item-5 {
   background-color: rgb(40, 215, 215);
