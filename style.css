@@ -170,4 +170,6 @@ footer {
 }
 .color-block {
   min-height: 5%;
+  width: 30%;
+  max-width: 35%;
 }
