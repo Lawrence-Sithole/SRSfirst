@@ -169,7 +169,8 @@ footer {
   text-shadow: rgb(255, 10, 10);
 }
 .color-block {
-  min-height: 5%;
+  height: 30px;
   width: 30%;
   max-width: 35%;
+  background-color: blue;
 }
