@@ -173,4 +173,6 @@ footer {
   width: 300px;
   max-width: 75%;
   background-color: blue;
+  justify-content: center;
+  margin-left: 33%;
 }
