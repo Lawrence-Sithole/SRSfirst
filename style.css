@@ -171,7 +171,6 @@ footer {
 .color-block {
   height: 30px;
   width: 450px;
-  max-width: 75%;
   background-color: rgb(95, 171, 221);
   justify-content: center;
   margin-left: 33.33%;
