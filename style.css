@@ -173,5 +173,7 @@ footer {
   width: 33.33%;
   background-color: rgb(95, 171, 221);
   justify-content: center;
+  align-items: center;
   margin-left: 33.33%;
+  color: blanchedalmond;
 }
